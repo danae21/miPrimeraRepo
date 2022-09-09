@@ -1,0 +1,19 @@
+var alturaniño = 56;
+//declaramos una funcion llamada muestrasielniñopuedesubiralamontañarusa
+function muestrasielniñopuedesubiralamontañarusa(alturaniño)
+
+//esta es una condiccional, la altura del niño es una condiccion.
+
+var altura = 56;
+
+//declaramos una funcion llamada muestrasielniñopuedessubiralamontañarusa
+function muestrasielniñopuedessubiralamontañarusa(alturaniño){
+ //esta es una condicional, la altura del niño es una condiccion.
+ if(alturaniño > 56){
+    console.log (!Subete, chico!)
+ }else{
+    console.log ("lo siento, chico. tal vez el proximo año")
+ }
+
+
+}
