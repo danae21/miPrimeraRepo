@@ -1,0 +1,37 @@
+*{
+
+    font-family: sans-serif;
+}
+
+.principal{
+
+    border: silver;
+    text-align: center;
+    width: 800px;
+   
+}
+
+img.octocat {
+    height: 200px;
+
+    margin-left: 100px;
+}
+.row{
+
+    display: flex;
+    justify-content: center;
+   
+}
+.celeste{
+
+background-color: aqua ;
+}
+
+.pink{
+
+    background-color:pink ;
+}
+
+.blanco{
+    background-color: aliceblue;
+}
