@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>programmer name</h1>
+    <img src="captura.PNG" alt="">
+
+    <div>
+        <img src="" alt="5465">
+        <a href="pagina2.html">my github</a>
+
+
+        <img src="" alt="2131">
+
+        <a href="pagina2.html">my linkedin</a>
+        <img src="" alt="23131">
+
+        <a href="pagina2.html">my email</a>
+    </div>
+
+     
+    <h3>technologies</h3>
+    <table> border="1"
+        <tr>
+            <th>front-end></th>
+            <th>python</th>
+            <th>javascrip</th>
+            <th>database</th>
+            <th>concepts</th>
+        </tr>
+        <tr>
+           <td>HTML5</td>
+           <td>django</td>
+           <td>express</td>
+           <td>mysql</td>
+           <td>ajax</td>
+        </tr>
+       <tr>
+
+
+
+     </tr>
+          <td>css3</td>
+          <td>flask</td>
+          <td>mongoose</td>
+          <td>mongodb</td>
+          <td>oop</td>
+          <tr> 
+          </tr>
+            <td>bootstrap</td>
+            <td>unittest</td>
+            <td>react</td>
+            <td></td>
+            <td>rest</td>
+        <tr>
+    </table>
+         
+    <h3>social snakes</h3>
+    <img src="captura simbolo.PNG" alt="">
+
+    <P>Social media app made in python  - <a href=""></a> | <a href="">deployed</a>
+
+    <h3>contact me</h3>
+    <label for="text">name</label>
+    <input type="text">
+     
+    <label for="text">email</label>
+    <input type="text">
+    <br>
+    <br>
+    <label for="text">message</label>
+    <textarea name="" id="" cols="40" rows="10"></textarea><br>
+<br>
+<input type="sunmit"> value="send messsage"
+</body>
+</html>
